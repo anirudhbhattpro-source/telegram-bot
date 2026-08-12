@@ -1,44 +1,48 @@
-# Core Telegram Library
+# ============================================
+# NETFLIX TRAIL BOT - COMPLETE REQUIREMENTS
+# ============================================
+
+# Telegram Bot Library
 pyTelegramBotAPI==4.16.0
 
 # HTTP Requests
 requests==2.31.0
 
-# Email Encoding/Decoding
-quopri==0.2.1
+# Email Encoding/Decoding (Standard Library - No Install Needed)
+# quopri - Built into Python
 
-# JSON Handling (built-in, but included for completeness)
-# json is built-in to Python
+# JSON Handling (Standard Library - No Install Needed)
+# json - Built into Python
 
-# Regular Expressions (built-in)
-# re is built-in to Python
+# Regular Expressions (Standard Library - No Install Needed)
+# re - Built into Python
 
-# UUID Generation (built-in)
-# uuid is built-in to Python
+# UUID Generation (Standard Library - No Install Needed)
+# uuid - Built into Python
 
-# Time Handling (built-in)
-# time is built-in to Python
+# Time Handling (Standard Library - No Install Needed)
+# time - Built into Python
 
-# Random Generation (built-in)
-# random is built-in to Python
+# Random Generation (Standard Library - No Install Needed)
+# random - Built into Python
 
-# System Operations (built-in)
-# sys is built-in to Python
+# System Operations (Standard Library - No Install Needed)
+# sys - Built into Python
 
-# Threading (built-in)
-# threading is built-in to Python
+# Threading (Standard Library - No Install Needed)
+# threading - Built into Python
 
-# HTML Parsing (built-in)
-# html is built-in to Python
+# HTML Parsing (Standard Library - No Install Needed)
+# html - Built into Python
 
-# Signal Handling (built-in)
-# signal is built-in to Python
+# Signal Handling (Standard Library - No Install Needed)
+# signal - Built into Python
 
-# Base64 Encoding (built-in)
-# base64 is built-in to Python
+# Base64 Encoding (Standard Library - No Install Needed)
+# base64 - Built into Python
 
-# Datetime (built-in)
-# datetime is built-in to Python
+# Datetime (Standard Library - No Install Needed)
+# datetime - Built into Python
 
-# Concurrent Futures (built-in)
-# concurrent.futures is built-in to Python
+# Concurrent Futures (Standard Library - No Install Needed)
+# concurrent.futures - Built into Python
