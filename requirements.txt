@@ -1,48 +1,6 @@
-# ============================================
-# NETFLIX TRAIL BOT - COMPLETE REQUIREMENTS
-# ============================================
-
-# Telegram Bot Library
 pyTelegramBotAPI==4.16.0
-
-# HTTP Requests
 requests==2.31.0
-
-# Email Encoding/Decoding (Standard Library - No Install Needed)
-# quopri - Built into Python
-
-# JSON Handling (Standard Library - No Install Needed)
-# json - Built into Python
-
-# Regular Expressions (Standard Library - No Install Needed)
-# re - Built into Python
-
-# UUID Generation (Standard Library - No Install Needed)
-# uuid - Built into Python
-
-# Time Handling (Standard Library - No Install Needed)
-# time - Built into Python
-
-# Random Generation (Standard Library - No Install Needed)
-# random - Built into Python
-
-# System Operations (Standard Library - No Install Needed)
-# sys - Built into Python
-
-# Threading (Standard Library - No Install Needed)
-# threading - Built into Python
-
-# HTML Parsing (Standard Library - No Install Needed)
-# html - Built into Python
-
-# Signal Handling (Standard Library - No Install Needed)
-# signal - Built into Python
-
-# Base64 Encoding (Standard Library - No Install Needed)
-# base64 - Built into Python
-
-# Datetime (Standard Library - No Install Needed)
-# datetime - Built into Python
-
-# Concurrent Futures (Standard Library - No Install Needed)
-# concurrent.futures - Built into Python
+beautifulsoup4==4.12.2
+lxml==4.9.3
+python-dotenv==1.0.0
+colorama==0.4.6
