@@ -19,7 +19,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 # ============================================
 # 🤖 TELEGRAM BOT CONFIGURATION
 # ============================================
-TOKEN = "8984518700:AAHWP9QclT9QDwwTPBYBJ_l3qww7i3CyXrI"
+TOKEN = "8984518700:AAGhj4Fsp3556f-A8gRqGaZQrcf1Tr0jPr0"
 bot = telebot.TeleBot(TOKEN, parse_mode='HTML')
 
 OUTPUT_FOLDER = ".cache"
