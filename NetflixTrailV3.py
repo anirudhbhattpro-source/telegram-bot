@@ -40,10 +40,13 @@ OWNER_CONTACT = "@Baadsahhabhai"
 # 🌟 PREMIUM EMOJI IDs - COMPLETE FIXED
 # ============================================
 PREMIUM_EMOJI_IDS = {
+    # ===== YOUR CUSTOM EMOJIS =====
     "📚": "5222444124698853913",
     "🎬": "6293821461828211185",
     "📱": "6294135870614147548",
     "🎵": "5271527792641595125",
+    
+    # ===== NUMBER EMOJIS =====
     "1️⃣": "5235776368905562305",
     "2️⃣": "5237704680372447424",
     "3️⃣": "5238044171767393675",
@@ -53,6 +56,8 @@ PREMIUM_EMOJI_IDS = {
     "7️⃣": "5237875542761417785",
     "8️⃣": "5238067300166281132",
     "9️⃣": "5237872922831367023",
+    
+    # ===== SUCCESS / ERROR =====
     "✅": "5974482805055296929",
     "❌": "5447647474984449520",
     "✔️": "6269285159774720688",
@@ -61,6 +66,8 @@ PREMIUM_EMOJI_IDS = {
     "⛔": "6269391327071310756",
     "🚫": "5116151848855667552",
     "🚷": "6269019133795374514",
+
+    # ===== FIRE / ENERGY =====
     "🔥": "5463094762951156490",
     "⚡": "5219943216781995020",
     "💥": "5122933683820430249",
@@ -68,11 +75,15 @@ PREMIUM_EMOJI_IDS = {
     "🌟": "5310224206732996002",
     "⭐": "6267298050205553492",
     "⭐️": "5172716095697584957",
+
+    # ===== PAYMENT / MONEY =====
     "💳": "5447453226498552490",
     "💰": "5116648080787112958",
     "💸": "5283232570660634549",
     "💵": "5350711759625795085",
     "🛒": "5447319442562251569",
+
+    # ===== EMAIL / MESSAGES =====
     "📧": "5445174334031166029",
     "📝": "6266764202950530136",
     "📋": "5197269100878907942",
@@ -83,11 +94,15 @@ PREMIUM_EMOJI_IDS = {
     "💬": "5447510826304959724",
     "📢": "5116445341150872576",
     "📣": "6294335475831402267",
+
+    # ===== TIME / WAITING =====
     "⏳": "5258113901106580375",
     "⏱️": "5343927661213279013",
     "🕒": "5258113901106580375",
     "📅": "5343927661213279013",
     "📆": "5343927661213279013",
+
+    # ===== BOT / TECH =====
     "🤖": "5931415565955503486",
     "💠": "5931415565955503486",
     "🖥️": "5258574977633567931",
@@ -97,6 +112,9 @@ PREMIUM_EMOJI_IDS = {
     "🛠️": "5348239232852836489",
     "🔌": "5120722716260828125",
     "📡": "5447448489149625830",
+    "📱": "6294135870614147548",
+
+    # ===== ARROWS / NAVIGATION =====
     "➡️": "5445350109862720603",
     "⬆️": "6294333051171504462",
     "🆙": "6294340079310882490",
@@ -104,11 +122,15 @@ PREMIUM_EMOJI_IDS = {
     "👇": "5122933683820430249",
     "🔘": "5219901967916084166",
     "🔗": "5447479640547428304",
+
+    # ===== SECURITY =====
     "🔐": "5258476306152038031",
     "🔒": "5258476306152038031",
     "🔓": "5258476306152038031",
     "🛡": "5219672809936006424",
     "🛡️": "5219672809936006424",
+
+    # ===== PEOPLE =====
     "👋": "5134476056241112076",
     "👤": "5445174334031166029",
     "👥": "5454371323595744068",
@@ -123,21 +145,29 @@ PREMIUM_EMOJI_IDS = {
     "🥰": "5444931419270839381",
     "😱": "5447181973544008180",
     "😺": "5118590136149345664",
+
+    # ===== HEARTS / FEELINGS =====
     "❤️": "5352918496642604333",
     "💔": "6078087767106001151",
     "💜": "6294147639899098147",
     "💟": "6294716179705691554",
     "🩸": "5352727529511723136",
     "🤍": "6293870742282965014",
+
+    # ===== ANIMALS / NATURE =====
     "🦁": "6294261187671614577",
     "🦉": "5123344136665039833",
     "🌍": "5303440357428586778",
     "🌐": "5447602197439218445",
     "🌝": "5341684837881235158",
+
+    # ===== FOOD =====
     "🍑": "5445408306669582934",
     "🍭": "6267152480878990865",
     "🍳": "5305622454218024328",
     "🥕": "5447653032672129347",
+
+    # ===== OBJECTS =====
     "👑": "6266995104687330978",
     "💎": "5343636681473935403",
     "🎁": "5283031441637148958",
@@ -151,6 +181,8 @@ PREMIUM_EMOJI_IDS = {
     "🔫": "6294206328010435087",
     "⚔️": "6294135887794019865",
     "💼": "6294080753298837622",
+
+    # ===== COLORS =====
     "🟢": "5269745613092546526",
     "🔴": "5269755666246672966",
     "🟡": "5269763542291111780",
@@ -160,6 +192,8 @@ PREMIUM_EMOJI_IDS = {
     "🟨": "6294732630698888962",
     "🔷": "5301275719681190738",
     "🔹": "5301275719681190738",
+
+    # ===== MISC =====
     "🚀": "5343887395894882351",
     "⚠️": "4915853119839011973",
     "💡": "5301275719681190738",
@@ -184,8 +218,11 @@ PREMIUM_EMOJI_IDS = {
     "📤": "5350747347724810871",
     "️🏷️": "5436285465420383204",
     "📄️": "5323538339062628165",
+    "🕒": "5258113901106580375",
     "✖": "6269355257935958587",
     "🔊": "6294714147760055534",
+    
+    # ===== OWNER CONTACT =====
     "👨‍💻": "5445174334031166029",
     "📞": "5447453226498552490",
     "💌": "5447510826304959724",
@@ -209,9 +246,10 @@ def premium_emoji(text: str) -> str:
     return result
 
 # ============================================
-# 🎨 UI FUNCTIONS
+# 🎨 UI FUNCTIONS - FIXED
 # ============================================
 def create_main_menu():
+    """Create main menu keyboard with premium emojis"""
     markup = ReplyKeyboardMarkup(row_width=2, resize_keyboard=True)
     btn1 = KeyboardButton("🎬 30 Days Trial")
     btn2 = KeyboardButton("⚡ 7 Days Trial")
@@ -223,6 +261,7 @@ def create_main_menu():
     return markup
 
 def create_email_type_buttons(days):
+    """Create email type selection buttons"""
     markup = InlineKeyboardMarkup(row_width=2)
     btn1 = InlineKeyboardButton("🔄 Auto Email", callback_data=f"auto_{days}")
     btn2 = InlineKeyboardButton("✏️ Custom Email", callback_data=f"custom_{days}")
@@ -232,9 +271,11 @@ def create_email_type_buttons(days):
     return markup
 
 def create_bulk_buttons():
+    """Create bulk selection buttons with number emojis"""
     markup = InlineKeyboardMarkup(row_width=5)
     buttons = []
     for i in range(1, 6):
+        # Use number emojis
         emoji = ["1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣"][i-1]
         btn = InlineKeyboardButton(f"{emoji}", callback_data=f"bulk_{i}")
         buttons.append(btn)
@@ -473,29 +514,4 @@ class MailTM:
     def get_messages(self):
         if not self.token:
             return []
-        headers = {"Authorization": f"Bearer {self.token}"}
-        try:
-            resp = requests.get(f"{self.api_url}/messages", headers=headers)
-            if resp.status_code == 200:
-                data = resp.json()
-                return data.get('hydra:member', [])
-            return []
-        except:
-            return []
-    
-    def get_message_content(self, message_id):
-        if not self.token:
-            return None
-        headers = {"Authorization": f"Bearer {self.token}"}
-        try:
-            resp = requests.get(f"{self.api_url}/messages/{message_id}", headers=headers)
-            if resp.status_code == 200:
-                return resp.json()
-            return None
-        except:
-            return None
-    
-    def delete_message(self, message_id):
-        if not self.token:
-            return False
-        headers = {"Authorization": f"Bea
+        headers = {"Authorization"
