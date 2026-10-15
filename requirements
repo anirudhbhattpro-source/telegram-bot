@@ -1,44 +1,13 @@
-# Core Telegram Library
-pyTelegramBotAPI==4.16.0
-
-# HTTP Requests
-requests==2.31.0
-
-# Email Encoding/Decoding
-quopri==0.2.1
-
-# JSON Handling (built-in, but included for completeness)
-# json is built-in to Python
-
-# Regular Expressions (built-in)
-# re is built-in to Python
-
-# UUID Generation (built-in)
-# uuid is built-in to Python
-
-# Time Handling (built-in)
-# time is built-in to Python
-
-# Random Generation (built-in)
-# random is built-in to Python
-
-# System Operations (built-in)
-# sys is built-in to Python
-
-# Threading (built-in)
-# threading is built-in to Python
-
-# HTML Parsing (built-in)
-# html is built-in to Python
-
-# Signal Handling (built-in)
-# signal is built-in to Python
-
-# Base64 Encoding (built-in)
-# base64 is built-in to Python
-
-# Datetime (built-in)
-# datetime is built-in to Python
-
-# Concurrent Futures (built-in)
-# concurrent.futures is built-in to Python
+python-telegram-bot==21.6
+playwright==1.47.0
+httpx==0.27.2
+python-dotenv==1.0.1
+anyio==4.6.2.post1
+certifi==2024.8.30
+httpcore==1.0.6
+h11==0.14.0
+idna==3.10
+sniffio==1.3.1
+typing_extensions==4.12.2
+greenlet==3.1.1
+pyee==12.0.0
