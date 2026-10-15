@@ -1,12 +1,9 @@
 services:
   - type: web
-    name: hotstar-bot
-    runtime: python
+    name: telegram-bot-2
+    runtime: docker
     plan: free
-    buildCommand: "./build.sh"
-    startCommand: "python bot.py"
+    dockerfilePath: ./Dockerfile
     envVars:
-      - key: PYTHON_VERSION
-        value: "3.11.9"
-      - key: PLAYWRIGHT_BROWSERS_PATH
-        value: "0"
+      - key: BOT_TOKEN
+        sync: false
